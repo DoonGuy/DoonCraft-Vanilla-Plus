@@ -1,4 +1,4 @@
-# dooncraft-vanilla-plus
+# DoonCraft Vanilla+
 
 Summary
 - A simple QOL and optimization modpack that works great for SMPs!
