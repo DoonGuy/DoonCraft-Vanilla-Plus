@@ -1,0 +1,14 @@
+{
+	"randomTimer": true,
+	"timer": 9,
+	"musicQueue": 10,
+	"musicFallback": true,
+	"musicCategoryStart": "default",
+	"displayAtStart": true,
+	"displayType": "JUKEBOX",
+	"displayRemainingSeconds": false,
+	"volumeIncrement": 5,
+	"allowHighVolume": false,
+	"height": 150,
+	"width": 320
+}
