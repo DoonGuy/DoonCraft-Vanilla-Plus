@@ -1,0 +1,10 @@
+I'll consider this the first release since I've been using it for a while and everything seems to be working how I'd expect
+
+MODS:
++ added Lighty
++ added Fadeless
++ added Remove Reloading Screen
++ added Screenshot to Clipboard
++ added Screenshot Viewer
++ updated Chat Heads 
++ updated ImmediatelyFast
