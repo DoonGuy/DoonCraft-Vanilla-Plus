@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "0db356e3a8f2c3fde924f4f1ac702ec75f7f089950dedf97aaca19f5ac300e5e"
+
+[[files]]
+file = "README.md"
+hash = "c921f0d6f05fcf1bf9012d209d4385237a226f5224baec07f735febf8792d726"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "9e7cfb573046164e3c99b9f301fb1a95869aa72db0e1ebf636e84dbb33b96daf"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "faccbb00f669bd7b6d70ac73331a782dabb214edc75b299284032d7606c820f0"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
@@ -293,4 +309,39 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-32x.pw.toml"
+hash = "5bdb73eba9dc4bcb8b022f40d1c7a3dfac077f208a1337ffbe985980d71c7e95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "e35c39519222a4cbb54a433881bac9703e8d59c9bf25a9d4fba1c0a22c3221ed"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ovos-rustic-redemption.pw.toml"
+hash = "c7ef5d2b8cba5e73606eca3bf19f650ad126f66395bd0ae55b2630ea733b0626"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
