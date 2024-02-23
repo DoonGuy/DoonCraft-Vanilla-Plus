@@ -16,6 +16,8 @@
 	},
 	"modules_right": [
 		{
+			"memory_color_toggle": true,
+			"time_format": "HH:mm:ss",
 			"name": "system",
 			"name_color": 16755200,
 			"value_color": 5636095,
@@ -175,7 +177,7 @@
 				"light": true,
 				"biome": true,
 				"rotation": false,
-				"facing": false,
+				"facing": true,
 				"slime_chunk": false,
 				"local_difficulty": true,
 				"day_ticks": true,
