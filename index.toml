@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "0db356e3a8f2c3fde924f4f1ac702ec75f7f089950dedf97aaca19f5ac300e5e"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
 file = "README.md"
@@ -10,7 +10,19 @@ hash = "c921f0d6f05fcf1bf9012d209d4385237a226f5224baec07f735febf8792d726"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "9e7cfb573046164e3c99b9f301fb1a95869aa72db0e1ebf636e84dbb33b96daf"
+hash = "c967de25c9263dfbd2a1086bc707446587d6071d221ba19d342206b852c97976"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "e08ba368d2d0b105ca030c30cb0212bf989e7755c9212bb905c317f3d80d4cdf"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "1de69e8f68a255bfe1fcb76f413df1fac1b969ce7e58109736d3e2763b9b3b0e"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "6a7eb713c56da42bca695cae995754b2b8c3bb43e5f107a51a6c0c734f22d048"
 
 [[files]]
 file = "config/yosbr/options.txt"
