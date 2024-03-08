@@ -299,6 +299,11 @@ hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "cb5b3f2ac7b2f850a13ef6b39f7a46dfd5207d3828e337f3129efa33cffb6713"
+metafile = true
+
+[[files]]
 file = "mods/vtdownloader.pw.toml"
 hash = "5944130f698e8cac37ddb6599351d96d4018208eb26c551a682a2d13b647320f"
 metafile = true
