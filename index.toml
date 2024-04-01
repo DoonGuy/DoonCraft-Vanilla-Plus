@@ -349,16 +349,6 @@ hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithful-32x.pw.toml"
-hash = "57932c51301bdd51a8092f439215d50811cb5583edd384090b719556bcc3586d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "1442464e67534f1864e8feca0b5f94dcbc2e019233ae81ae674493d7c3a64588"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
 metafile = true
