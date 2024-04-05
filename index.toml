@@ -289,11 +289,6 @@ hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "bab65e32078216683b5b01cf60d06cd01a3cd4ff1339d1b4de1091338c3b1e21"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
 metafile = true

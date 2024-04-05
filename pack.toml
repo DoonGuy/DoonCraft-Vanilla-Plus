@@ -1,12 +1,12 @@
 name = "DoonCraft Vanilla+"
 author = "doonguy"
-version = "1.1.3"
+version = "1.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bf8a3662cf60876e254d7a66ba5f73d0b0afbde111d99d524fcc48e46984b64"
+hash = "16a4091728e0843a1c0ae7a0694dc7c9671701e0a20b3d96c70bb4c611d4f164"
 
 [versions]
 fabric = "0.15.9"
