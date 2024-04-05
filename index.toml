@@ -54,6 +54,11 @@ hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
 
 [[files]]
+file = "mods/bad-horse-fix.pw.toml"
+hash = "d450e8f7cec80312ee55ee126ee9325528882ea3fce788c81ef30dce2fb6c564"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
