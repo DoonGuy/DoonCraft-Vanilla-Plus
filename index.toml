@@ -14,7 +14,7 @@ hash = "c967de25c9263dfbd2a1086bc707446587d6071d221ba19d342206b852c97976"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "e08ba368d2d0b105ca030c30cb0212bf989e7755c9212bb905c317f3d80d4cdf"
+hash = "5c5c331f539f9e7eb22b6c941c473a8bc99b2808a40d6abe6b4872c5931446a7"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
