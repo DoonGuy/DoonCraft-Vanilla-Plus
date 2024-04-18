@@ -9,19 +9,23 @@ file = "README.md"
 hash = "8661e4f2780ae705d41862403b01985c5924833c386afcf490e61014f295e72f"
 
 [[files]]
-file = "config/betterf3.json"
+file = "config/yosbr/config/betterf3.json"
 hash = "c967de25c9263dfbd2a1086bc707446587d6071d221ba19d342206b852c97976"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/yosbr/config/dynamiccrosshair.json5"
+hash = "242ba77a77ecf78dc726901b8d7278ed6ac1474006c2a14834f14dbb7a716f5b"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "5c5c331f539f9e7eb22b6c941c473a8bc99b2808a40d6abe6b4872c5931446a7"
 
 [[files]]
-file = "config/roughlyenoughitems/config.json5"
+file = "config/yosbr/config/roughlyenoughitems/config.json5"
 hash = "1de69e8f68a255bfe1fcb76f413df1fac1b969ce7e58109736d3e2763b9b3b0e"
 
 [[files]]
-file = "config/xaerominimap.txt"
+file = "config/yosbr/config/xaerominimap.txt"
 hash = "6a7eb713c56da42bca695cae995754b2b8c3bb43e5f107a51a6c0c734f22d048"
 
 [[files]]
@@ -116,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "0f4d0a39eb5ba73e8cd1eecb7ec6fd2fcfca53fa537a75929b691f9e903b3394"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
