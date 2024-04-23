@@ -14,15 +14,11 @@ hash = "c967de25c9263dfbd2a1086bc707446587d6071d221ba19d342206b852c97976"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "242ba77a77ecf78dc726901b8d7278ed6ac1474006c2a14834f14dbb7a716f5b"
+hash = "e98a7d16360d185d870a76b7930870aaa6f3f44566e786125b8c24c91c91e723"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "5c5c331f539f9e7eb22b6c941c473a8bc99b2808a40d6abe6b4872c5931446a7"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "1de69e8f68a255bfe1fcb76f413df1fac1b969ce7e58109736d3e2763b9b3b0e"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -45,11 +41,6 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "59f11097c3005d5efcec93d0cd8a1ce690dc1ed65b9e56c2b1ed7bdca24cf022"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
@@ -168,11 +159,6 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -185,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
