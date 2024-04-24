@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-horse-fix.pw.toml"
-hash = "d450e8f7cec80312ee55ee126ee9325528882ea3fce788c81ef30dce2fb6c564"
+hash = "51d610c3f680feb30a9a0578e4a79da17a89d266b502abb36f7c9c66a425f9c2"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
+hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
 metafile = true
 
 [[files]]
@@ -261,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "a39b51d148022a536c3cf145dbaf84fa94c3c84b57dce82ea5e49e88bb91f756"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
 
 [[files]]
