@@ -119,11 +119,6 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "16f96bbdee19f6401ff372600b7e76cc1fb6ad8d5a2a116a96be45f875109da9"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -334,11 +329,6 @@ hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
-file = "mods/resourcify.pw.toml"
-hash = "38d6d6cb5d11256125bd1d47359420192bf2c2e01ba480838d9b0af94a06b7ca"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
 metafile = true
@@ -351,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "161d5d4d43f78ec1eeff89652fea418de615abbcf94ec8706aa318bf7d42c6c8"
-metafile = true
-
-[[files]]
-file = "mods/searchables.pw.toml"
-hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
