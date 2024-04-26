@@ -22,11 +22,16 @@ hash = "5c5c331f539f9e7eb22b6c941c473a8bc99b2808a40d6abe6b4872c5931446a7"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "6a7eb713c56da42bca695cae995754b2b8c3bb43e5f107a51a6c0c734f22d048"
+hash = "aa6855bcb6ed1f209a42167d9fd9ab7493455a8ebf793d622afce1f155319766"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "5d0fd1391545446a9f5d9a78cbe050b3a63856ca8653a9a3dc1a09c1be0c434d"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "f710fc658970b4b41ce99d3bcbf5f928875f3afa731d31a4518739e469ad9da9"
+metafile = true
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
 
 [[files]]
@@ -109,6 +119,11 @@ hash = "0f4d0a39eb5ba73e8cd1eecb7ec6fd2fcfca53fa537a75929b691f9e903b3394"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
 metafile = true
@@ -146,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
 metafile = true
 
 [[files]]
@@ -196,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
@@ -304,11 +329,6 @@ hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
-file = "mods/visuality.pw.toml"
-hash = "84760358262cc7ab63eefbaf3dc3286f2b27497e1c5a224ea3d82f80889d17d7"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "c1fbf5eaf184983ba965cb5a6609f34d71faeea831453b450d3239862e4915c3"
 metafile = true
@@ -334,6 +354,15 @@ hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ovos-rustic-redemption.pw.toml"
+hash = "7a3cce6172105562ad6de9442cc32ea034f4e8c18f41a0409529e68629b23a7a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Bliss-Shader-main-SNAPSHOT-343a68c.zip"
+hash = "0601b36ef8adcb763f5fbdf9ec7dcfbfd05f48d0a9a3aa5dfcc118aaeebf193d"
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "c8de367e791fa5d6b903ff7154aee21ff66f57e4e484bc53189779c0041c05ba"
 metafile = true
@@ -351,9 +380,4 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
-metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
