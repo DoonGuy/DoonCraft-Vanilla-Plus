@@ -69,6 +69,11 @@ hash = "d2f6ba732fdd2d315fc9eb4c106e7592fdf934a0ae3cd233501b4ab76e08c342"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
 metafile = true
@@ -89,8 +94,18 @@ hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "af00abbd40a8c1c5f18b5c7e5460561db5e14cf671221c3ac8e4372650d4e14b"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
 
 [[files]]
@@ -101,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "16f96bbdee19f6401ff372600b7e76cc1fb6ad8d5a2a116a96be45f875109da9"
 metafile = true
 
 [[files]]
@@ -116,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "0f4d0a39eb5ba73e8cd1eecb7ec6fd2fcfca53fa537a75929b691f9e903b3394"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "4037c6b65a54a6348b5064985163f9b10aa3eead80a69b666b2228b1c911490f"
 metafile = true
 
 [[files]]
@@ -171,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
@@ -284,6 +314,11 @@ hash = "041761e34615a4a3c2d1aeda79553169d03576f88ec55f891bc04e04d6aebafe"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "7fad014bedc7a93e4d93b7ebd8112628a25b1f6c121878a70c9c2b5781f3c18e"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
 metafile = true
@@ -296,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "38d6d6cb5d11256125bd1d47359420192bf2c2e01ba480838d9b0af94a06b7ca"
 metafile = true
 
 [[files]]
@@ -314,6 +354,16 @@ hash = "161d5d4d43f78ec1eeff89652fea418de615abbcf94ec8706aa318bf7d42c6c8"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f43c022a952f3d81a8b722897a686f53de82cb953189d5eb17c4049b3fcf1727"
 metafile = true
@@ -326,6 +376,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
+metafile = true
+
+[[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "979de662f7961a95711b1300db0d3c458a5cb49e45f449f368ff9580aff484b7"
 metafile = true
 
 [[files]]
