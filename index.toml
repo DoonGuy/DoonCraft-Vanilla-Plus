@@ -26,7 +26,7 @@ hash = "6a7eb713c56da42bca695cae995754b2b8c3bb43e5f107a51a6c0c734f22d048"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "85ce684a518fe55c101d1e569681a9af2e512009221c5cd7b6b2185e44205aca"
+hash = "5d0fd1391545446a9f5d9a78cbe050b3a63856ca8653a9a3dc1a09c1be0c434d"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-horse-fix.pw.toml"
-hash = "51d610c3f680feb30a9a0578e4a79da17a89d266b502abb36f7c9c66a425f9c2"
+hash = "a264759271112eb16ee3c216deee9f62c06a4cf80cde7aac41982032f0dee10b"
 metafile = true
 
 [[files]]
@@ -56,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "ec31177d5cf656efdff737432455211defb8ee188749e3f53f117f75f83d1b6a"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "d2f6ba732fdd2d315fc9eb4c106e7592fdf934a0ae3cd233501b4ab76e08c342"
 metafile = true
 
 [[files]]
@@ -95,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -149,6 +154,11 @@ hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
@@ -160,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
 
 [[files]]
@@ -194,18 +204,13 @@ hash = "afab2fbd384fd1f093b7b6d1500d3227c129223b4a6e2ee62ed43b63bfae8f1d"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
+hash = "c0daa1b0438a80083fed9145abe9760e6d4b0f5d3f091ea12e893c32072c8899"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
 metafile = true
 
 [[files]]
@@ -244,18 +249,23 @@ hash = "64a8d5113f03e9f5931239a1f73962008e99f89b94e35a2b4daf8482d3c78f45"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
-hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
+hash = "041761e34615a4a3c2d1aeda79553169d03576f88ec55f891bc04e04d6aebafe"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
+hash = "b2db81b53e71fc73306a4a5bafb7a33662e2e3da6d77210db607466cd4c41d49"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a39b51d148022a536c3cf145dbaf84fa94c3c84b57dce82ea5e49e88bb91f756"
+hash = "3d893dfadfa820f509be9d34f6f302f31a89e824f522e5957e609985de35c591"
 metafile = true
 
 [[files]]
@@ -299,18 +309,13 @@ hash = "84760358262cc7ab63eefbaf3dc3286f2b27497e1c5a224ea3d82f80889d17d7"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "029d7776be39175a6075ef310e4a42402b1b38a3c4bd3631f9d216fd87399265"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "c1fbf5eaf184983ba965cb5a6609f34d71faeea831453b450d3239862e4915c3"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "0e64714c116db266b1c35b0fea980d0ad75ddee7639d13f89d5cedf6c7e336e7"
+hash = "bc7688aa41db382b407430d998342da363b5b62ff453f97c2dabf30826cfe052"
 metafile = true
 
 [[files]]
@@ -325,12 +330,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ovos-rustic-redemption.pw.toml"
-hash = "b74d0f166c1abd32edd9831d5d1945ee0f343b482f5ce467a0bf3926dc5fa687"
+hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
 metafile = true
 
 [[files]]
@@ -351,4 +351,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
