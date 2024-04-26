@@ -1,12 +1,12 @@
 version:3465
 autoJump:false
 autoSuggestions:true
-enableVsync:true
-fullscreen:true
+enableVsync:false
+fullscreen:false
 darkMojangStudiosBackground:true
 guiScale:3
-maxFps:260
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
+maxFps:250
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
 tutorialStep:none
 skipMultiplayerWarning:true
