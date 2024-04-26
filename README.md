@@ -1,9 +1,14 @@
 # DoonCraft Vanilla+
+The goal of this modpack is to provide the best experience possible with SMP servers and getting the most out of resource packs. It includes quality of life improvements, performance tweaks and visusal enhancements.
+## Features
+- Many performance tweaks
+- Most Optifine features present
+- Fixes many visual bugs
+- Increased render distance on servers with [Bobby](https://modrinth.com/mod/bobby)
+- Handy inventory shortcuts with [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+- Shaders support with [Iris](https://modrinth.com/mod/iris)
 
-Summary
-- A simple QOL and optimization modpack that works great for SMPs!
+And much more! Click on a [version on Mondrinth](https://modrinth.com/modpack/dooncraft-vanilla/versions) to see the included mods!
 
-Description
-- This is a simple fabric modpack that adds optimizations and quality of life enhancements to the vanilla game. It can be used to connect to vanilla servers or get a near vanilla experience in singleplayer. The mods chosen were what I found to achieve the best performance and make the game more enjoyable, while not adding anything to require changes server-side. Most features of OptiFine are available, along with my favourite resource packs and shaders to take advantage of those features.
-
-https://modrinth.com/modpack/dooncraft-vanilla
+## Feedback
+If you'd like to make your mark on the future of this modpack, your voice will be heard on our [GitHub Issues](https://github.com/DoonGuy/DoonCraft-Vanilla-Plus/issues) page. Please let us know of any bugs you find, mod suggestions, general feedback, or anything else there!
