@@ -1,0 +1,13 @@
+name = "Copyshot"
+filename = "Copyshot.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/77SktgmK/versions/1.1/Copyshot.jar"
+hash-format = "sha1"
+hash = "1bf5b12a97576426c15981df8e39ae1271ea3caf"
+
+[update]
+[update.modrinth]
+mod-id = "77SktgmK"
+version = "GTdl83UG"
